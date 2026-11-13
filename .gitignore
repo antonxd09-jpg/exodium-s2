@@ -1,0 +1,5 @@
+tools/
+apk/classes.dex
+out/
+src/third_party/
+src/android_inc/
